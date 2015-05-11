@@ -1,6 +1,6 @@
 # BangBangBear
 # Wellcome
-
+![](https://raw.githubusercontent.com/andyyko/BangBangBear/master/logo.jpg)
 
 <div style="color:orange;">
 @&%%@&&%&@@&@@@@@&@@@@@@@@@&&@@@@@@@@@@@@&&&@&&&&&&%%%@@%X%%
